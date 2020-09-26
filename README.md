@@ -1,13 +1,24 @@
-# VUE.JS - SALES REPORT
+# calculator
 
-Topics: VUEJS
+## Project setup
+```
+npm install
+```
 
-Application: Generating a report based on a json file
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-Step 1:
+### Compiles and minifies for production
+```
+npm run build
+```
 
-### git clone https://github.com/gilsonmneto/vuejs-sales-report.git
+### Lints and fixes files
+```
+npm run lint
+```
 
-Step 2:
-
-### open in browser `index.html`
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

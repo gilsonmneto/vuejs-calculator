@@ -1,24 +1,17 @@
-# calculator
+# VUE JS - CALCULATOR
 
-## Project setup
-```
-npm install
-```
+Topics: VUE.JS, NODEJS
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Application: Simple Calculator
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Step 1:
 
-### Lints and fixes files
-```
-npm run lint
-```
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/gilsonmneto/vuejs-calculator)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Step 2:
+
+### `npm i`
+
+Step 3:
+
+### `npm start`
